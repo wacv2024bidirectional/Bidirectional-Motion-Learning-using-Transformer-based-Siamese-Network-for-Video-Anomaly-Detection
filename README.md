@@ -1,0 +1,1 @@
+# Bidirectional-Motion-Learning-using-Transformer-based-Siamese-Network-for-Video-Anomaly-Detection
